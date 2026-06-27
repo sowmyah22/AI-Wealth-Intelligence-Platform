@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+requests
+huggingface_hub
+pydantic
+collections
+yfinance
+sqlalchemy
+sentence-transformers
+chromadb
+numpy
