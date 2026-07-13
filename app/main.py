@@ -2,7 +2,7 @@
 
 from fastapi import FastAPI
 from app.routes import router
-from app.database.conection import engine
+from app.database.connection import engine
 from app.database.models import Base
 
 app=FastAPI(title="AI INVESTMENT ANALYST")
